@@ -1,0 +1,21 @@
+# Ignore all virtual environment folders in any subfolder
+**/venv/
+**/.venv/
+**/env/
+**/ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django stuff
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# VS Code settings
+.vscode/
+.idea/
