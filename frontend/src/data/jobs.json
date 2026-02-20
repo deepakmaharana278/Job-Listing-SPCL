@@ -1,0 +1,1803 @@
+[
+  {
+    "id": 1,
+    "job_title": "DevOps Engineer",
+    "company_name": "Paytm",
+    "location": "Noida",
+    "category": "DevOps Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "14-17 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "TensorFlow",
+      "HTML",
+      "Django",
+      "React"
+    ],
+    "job_description": "We are hiring a DevOps Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-05"
+  },
+  {
+    "id": 2,
+    "job_title": "AI Engineer",
+    "company_name": "Wipro",
+    "location": "Gurugram",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "14-17 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Git",
+      "HTML",
+      "Node.js",
+      "JavaScript"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-25"
+  },
+  {
+    "id": 3,
+    "job_title": "Web Developer",
+    "company_name": "HCL Technologies",
+    "location": "Pune",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "15-21 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Git",
+      "Docker",
+      "AWS",
+      "JavaScript"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-28"
+  },
+  {
+    "id": 4,
+    "job_title": "Backend Developer",
+    "company_name": "TCS",
+    "location": "Hyderabad",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "10-15 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "JavaScript",
+      "Docker",
+      "Node.js",
+      "Python"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-25"
+  },
+  {
+    "id": 5,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Mphasis",
+    "location": "Hyderabad",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "14-24 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Kubernetes",
+      "TensorFlow",
+      "Docker",
+      "SQL"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-31"
+  },
+  {
+    "id": 6,
+    "job_title": "Data Scientist",
+    "company_name": "Capgemini",
+    "location": "Hyderabad",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "12-20 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Node.js",
+      "Python",
+      "AWS",
+      "TensorFlow"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-16"
+  },
+  {
+    "id": 7,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Accenture",
+    "location": "Delhi",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "13-23 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "React",
+      "Git",
+      "Django",
+      "JavaScript"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-01"
+  },
+  {
+    "id": 8,
+    "job_title": "Python Developer",
+    "company_name": "Flipkart",
+    "location": "Mumbai",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "12-20 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "React",
+      "CSS",
+      "Node.js",
+      "TensorFlow"
+    ],
+    "job_description": "We are hiring a Python Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-18"
+  },
+  {
+    "id": 9,
+    "job_title": "Backend Developer",
+    "company_name": "Capgemini",
+    "location": "Pune",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "14-19 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "MongoDB",
+      "CSS",
+      "AWS",
+      "TensorFlow"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-15"
+  },
+  {
+    "id": 10,
+    "job_title": "Python Developer",
+    "company_name": "L&T Infotech",
+    "location": "Noida",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "12-22 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "React",
+      "TensorFlow",
+      "CSS",
+      "HTML"
+    ],
+    "job_description": "We are hiring a Python Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-18"
+  },
+  {
+    "id": 11,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Flipkart",
+    "location": "Delhi",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "9-14 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Python",
+      "Django",
+      "AWS",
+      "JavaScript"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-29"
+  },
+  {
+    "id": 12,
+    "job_title": "Web Developer",
+    "company_name": "Cognizant",
+    "location": "Pune",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "8-10 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "PyTorch",
+      "CSS",
+      "Node.js",
+      "Kubernetes"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-05"
+  },
+  {
+    "id": 13,
+    "job_title": "Backend Developer",
+    "company_name": "Persistent Systems",
+    "location": "Chennai",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "12-22 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "SQL",
+      "Python",
+      "CSS",
+      "Node.js"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-17"
+  },
+  {
+    "id": 14,
+    "job_title": "DevOps Engineer",
+    "company_name": "Tech Mahindra",
+    "location": "Hyderabad",
+    "category": "DevOps Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "15-22 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "PyTorch",
+      "Node.js",
+      "Kubernetes",
+      "HTML"
+    ],
+    "job_description": "We are hiring a DevOps Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-13"
+  },
+  {
+    "id": 15,
+    "job_title": "Web Developer",
+    "company_name": "Paytm",
+    "location": "Delhi",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "15-24 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "AWS",
+      "Docker",
+      "Django",
+      "PyTorch"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-19"
+  },
+  {
+    "id": 16,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Infosys",
+    "location": "Pune",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "13-15 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "AWS",
+      "React",
+      "TensorFlow",
+      "Node.js"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-24"
+  },
+  {
+    "id": 17,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Zoho",
+    "location": "Bangalore",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "10-18 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "PyTorch",
+      "Git",
+      "Docker",
+      "JavaScript"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-17"
+  },
+  {
+    "id": 18,
+    "job_title": "Python Developer",
+    "company_name": "Tech Mahindra",
+    "location": "Mumbai",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "14-23 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Docker",
+      "MongoDB",
+      "Git",
+      "CSS"
+    ],
+    "job_description": "We are hiring a Python Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-15"
+  },
+  {
+    "id": 19,
+    "job_title": "Backend Developer",
+    "company_name": "L&T Infotech",
+    "location": "Gurugram",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "12-17 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Django",
+      "Node.js",
+      "Git",
+      "Kubernetes"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-30"
+  },
+  {
+    "id": 20,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Accenture",
+    "location": "Pune",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "5-13 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "PyTorch",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-17"
+  },
+  {
+    "id": 21,
+    "job_title": "Web Developer",
+    "company_name": "Capgemini",
+    "location": "Pune",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "10-16 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Django",
+      "PyTorch",
+      "TensorFlow",
+      "SQL"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-07"
+  },
+  {
+    "id": 22,
+    "job_title": "Full Stack Developer",
+    "company_name": "Capgemini",
+    "location": "Noida",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "4-12 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "SQL",
+      "Django",
+      "Docker",
+      "HTML"
+    ],
+    "job_description": "We are hiring a Full Stack Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-15"
+  },
+  {
+    "id": 23,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "TCS",
+    "location": "Delhi",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "10-15 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "SQL",
+      "React",
+      "TensorFlow",
+      "Django"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-15"
+  },
+  {
+    "id": 24,
+    "job_title": "Python Developer",
+    "company_name": "L&T Infotech",
+    "location": "Mumbai",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "7-13 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "AWS",
+      "CSS",
+      "Kubernetes",
+      "MongoDB"
+    ],
+    "job_description": "We are hiring a Python Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-10"
+  },
+  {
+    "id": 25,
+    "job_title": "Web Developer",
+    "company_name": "Accenture",
+    "location": "Hyderabad",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "11-20 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Kubernetes",
+      "AWS",
+      "Docker",
+      "HTML"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-27"
+  },
+  {
+    "id": 26,
+    "job_title": "Frontend Developer",
+    "company_name": "L&T Infotech",
+    "location": "Delhi",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "14-22 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "PyTorch",
+      "HTML",
+      "TensorFlow",
+      "Git"
+    ],
+    "job_description": "We are hiring a Frontend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-10"
+  },
+  {
+    "id": 27,
+    "job_title": "Backend Developer",
+    "company_name": "Zoho",
+    "location": "Hyderabad",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "15-25 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Docker",
+      "PyTorch",
+      "JavaScript",
+      "Django"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-15"
+  },
+  {
+    "id": 28,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Capgemini",
+    "location": "Mumbai",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "15-21 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "SQL",
+      "Django",
+      "JavaScript",
+      "Git"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-08"
+  },
+  {
+    "id": 29,
+    "job_title": "Frontend Developer",
+    "company_name": "Tech Mahindra",
+    "location": "Pune",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "8-13 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Node.js",
+      "Docker",
+      "HTML",
+      "AWS"
+    ],
+    "job_description": "We are hiring a Frontend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-08"
+  },
+  {
+    "id": 30,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Tech Mahindra",
+    "location": "Noida",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "9-13 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "JavaScript",
+      "TensorFlow",
+      "React",
+      "SQL"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-20"
+  },
+  {
+    "id": 31,
+    "job_title": "Data Scientist",
+    "company_name": "Mphasis",
+    "location": "Gurugram",
+    "category": "AI Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "4-10 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Git",
+      "Node.js",
+      "Docker",
+      "PyTorch"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-14"
+  },
+  {
+    "id": 32,
+    "job_title": "DevOps Engineer",
+    "company_name": "Capgemini",
+    "location": "Pune",
+    "category": "DevOps Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "13-21 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "React",
+      "Node.js",
+      "HTML",
+      "AWS"
+    ],
+    "job_description": "We are hiring a DevOps Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-13"
+  },
+  {
+    "id": 33,
+    "job_title": "Data Scientist",
+    "company_name": "L&T Infotech",
+    "location": "Gurugram",
+    "category": "AI Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "4-13 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Kubernetes",
+      "MongoDB",
+      "Node.js",
+      "AWS"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-27"
+  },
+  {
+    "id": 34,
+    "job_title": "Full Stack Developer",
+    "company_name": "Accenture",
+    "location": "Chennai",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "10-17 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Kubernetes",
+      "MongoDB",
+      "PyTorch",
+      "Django"
+    ],
+    "job_description": "We are hiring a Full Stack Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-04"
+  },
+  {
+    "id": 35,
+    "job_title": "Python Developer",
+    "company_name": "Infosys",
+    "location": "Bangalore",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "12-21 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "SQL",
+      "React",
+      "Python",
+      "CSS"
+    ],
+    "job_description": "We are hiring a Python Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-06"
+  },
+  {
+    "id": 36,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Zoho",
+    "location": "Hyderabad",
+    "category": "AI Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "3-10 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "JavaScript",
+      "Kubernetes",
+      "AWS",
+      "SQL"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-23"
+  },
+  {
+    "id": 37,
+    "job_title": "Web Developer",
+    "company_name": "TCS",
+    "location": "Delhi",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "5-9 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Kubernetes",
+      "Git",
+      "TensorFlow",
+      "React"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-08"
+  },
+  {
+    "id": 38,
+    "job_title": "Full Stack Developer",
+    "company_name": "Infosys",
+    "location": "Chennai",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "6-15 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Kubernetes",
+      "Docker",
+      "TensorFlow",
+      "JavaScript"
+    ],
+    "job_description": "We are hiring a Full Stack Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-19"
+  },
+  {
+    "id": 39,
+    "job_title": "Frontend Developer",
+    "company_name": "Wipro",
+    "location": "Bangalore",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "14-17 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "HTML",
+      "Node.js",
+      "Django",
+      "Python"
+    ],
+    "job_description": "We are hiring a Frontend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-04"
+  },
+  {
+    "id": 40,
+    "job_title": "Frontend Developer",
+    "company_name": "Zoho",
+    "location": "Mumbai",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "8-11 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "SQL",
+      "Docker",
+      "HTML",
+      "AWS"
+    ],
+    "job_description": "We are hiring a Frontend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-29"
+  },
+  {
+    "id": 41,
+    "job_title": "Full Stack Developer",
+    "company_name": "Accenture",
+    "location": "Mumbai",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "14-22 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Node.js",
+      "Docker",
+      "React",
+      "TensorFlow"
+    ],
+    "job_description": "We are hiring a Full Stack Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-20"
+  },
+  {
+    "id": 42,
+    "job_title": "Backend Developer",
+    "company_name": "Mphasis",
+    "location": "Noida",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "6-9 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "CSS",
+      "JavaScript",
+      "Django",
+      "PyTorch"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-25"
+  },
+  {
+    "id": 43,
+    "job_title": "Backend Developer",
+    "company_name": "Zoho",
+    "location": "Noida",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "8-12 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Git",
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-13"
+  },
+  {
+    "id": 44,
+    "job_title": "Backend Developer",
+    "company_name": "Mindtree",
+    "location": "Chennai",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "15-25 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Docker",
+      "Django",
+      "MongoDB",
+      "Git"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-15"
+  },
+  {
+    "id": 45,
+    "job_title": "DevOps Engineer",
+    "company_name": "TCS",
+    "location": "Mumbai",
+    "category": "DevOps Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "3-10 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Node.js",
+      "HTML",
+      "CSS",
+      "SQL"
+    ],
+    "job_description": "We are hiring a DevOps Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-05"
+  },
+  {
+    "id": 46,
+    "job_title": "Backend Developer",
+    "company_name": "TCS",
+    "location": "Hyderabad",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "7-9 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Python",
+      "Django",
+      "HTML",
+      "AWS"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-27"
+  },
+  {
+    "id": 47,
+    "job_title": "AI Engineer",
+    "company_name": "Zoho",
+    "location": "Bangalore",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "4-9 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "HTML",
+      "MongoDB",
+      "Git",
+      "JavaScript"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-19"
+  },
+  {
+    "id": 48,
+    "job_title": "AI Engineer",
+    "company_name": "HCL Technologies",
+    "location": "Noida",
+    "category": "AI Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "6-8 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Kubernetes",
+      "CSS",
+      "SQL",
+      "MongoDB"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-29"
+  },
+  {
+    "id": 49,
+    "job_title": "Web Developer",
+    "company_name": "Infosys",
+    "location": "Bangalore",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "14-18 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Git",
+      "Node.js",
+      "JavaScript",
+      "React"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-04"
+  },
+  {
+    "id": 50,
+    "job_title": "Frontend Developer",
+    "company_name": "Wipro",
+    "location": "Noida",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "15-18 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Django",
+      "Docker",
+      "TensorFlow",
+      "AWS"
+    ],
+    "job_description": "We are hiring a Frontend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-25"
+  },
+  {
+    "id": 51,
+    "job_title": "Python Developer",
+    "company_name": "Flipkart",
+    "location": "Noida",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "4-14 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "AWS",
+      "Git",
+      "JavaScript",
+      "Node.js"
+    ],
+    "job_description": "We are hiring a Python Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-15"
+  },
+  {
+    "id": 52,
+    "job_title": "Data Scientist",
+    "company_name": "Mindtree",
+    "location": "Chennai",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "3-13 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "React",
+      "Docker",
+      "Git",
+      "JavaScript"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-19"
+  },
+  {
+    "id": 53,
+    "job_title": "Full Stack Developer",
+    "company_name": "Accenture",
+    "location": "Gurugram",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "5-13 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "React",
+      "MongoDB",
+      "Docker",
+      "Kubernetes"
+    ],
+    "job_description": "We are hiring a Full Stack Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-22"
+  },
+  {
+    "id": 54,
+    "job_title": "DevOps Engineer",
+    "company_name": "Mphasis",
+    "location": "Bangalore",
+    "category": "DevOps Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "12-21 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Node.js",
+      "Python",
+      "AWS",
+      "CSS"
+    ],
+    "job_description": "We are hiring a DevOps Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-12"
+  },
+  {
+    "id": 55,
+    "job_title": "AI Engineer",
+    "company_name": "Paytm",
+    "location": "Mumbai",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "14-23 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "HTML",
+      "SQL",
+      "TensorFlow",
+      "Node.js"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-15"
+  },
+  {
+    "id": 56,
+    "job_title": "AI Engineer",
+    "company_name": "Tech Mahindra",
+    "location": "Pune",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "7-14 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "JavaScript",
+      "Django",
+      "React",
+      "CSS"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-12"
+  },
+  {
+    "id": 57,
+    "job_title": "Full Stack Developer",
+    "company_name": "Flipkart",
+    "location": "Chennai",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "12-15 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "HTML",
+      "AWS",
+      "Git",
+      "MongoDB"
+    ],
+    "job_description": "We are hiring a Full Stack Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-19"
+  },
+  {
+    "id": 58,
+    "job_title": "Data Scientist",
+    "company_name": "Persistent Systems",
+    "location": "Delhi",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "8-15 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Kubernetes",
+      "Node.js",
+      "MongoDB",
+      "Django"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-03"
+  },
+  {
+    "id": 59,
+    "job_title": "DevOps Engineer",
+    "company_name": "HCL Technologies",
+    "location": "Chennai",
+    "category": "DevOps Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "13-21 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "React",
+      "CSS",
+      "Python",
+      "Node.js"
+    ],
+    "job_description": "We are hiring a DevOps Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-31"
+  },
+  {
+    "id": 60,
+    "job_title": "AI Engineer",
+    "company_name": "Paytm",
+    "location": "Delhi",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "11-21 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "MongoDB",
+      "Node.js",
+      "React",
+      "HTML"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-28"
+  },
+  {
+    "id": 61,
+    "job_title": "Backend Developer",
+    "company_name": "L&T Infotech",
+    "location": "Bangalore",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "5-7 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "PyTorch",
+      "SQL",
+      "CSS",
+      "Django"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-02"
+  },
+  {
+    "id": 62,
+    "job_title": "Python Developer",
+    "company_name": "Flipkart",
+    "location": "Mumbai",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "7-13 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "TensorFlow",
+      "React",
+      "MongoDB",
+      "Git"
+    ],
+    "job_description": "We are hiring a Python Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-10"
+  },
+  {
+    "id": 63,
+    "job_title": "Web Developer",
+    "company_name": "Persistent Systems",
+    "location": "Noida",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "6-9 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "HTML",
+      "SQL",
+      "Docker",
+      "AWS"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-01"
+  },
+  {
+    "id": 64,
+    "job_title": "Frontend Developer",
+    "company_name": "Paytm",
+    "location": "Pune",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "4-14 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "SQL",
+      "Docker",
+      "AWS",
+      "HTML"
+    ],
+    "job_description": "We are hiring a Frontend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-26"
+  },
+  {
+    "id": 65,
+    "job_title": "DevOps Engineer",
+    "company_name": "Capgemini",
+    "location": "Pune",
+    "category": "DevOps Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "13-19 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "React",
+      "Git",
+      "PyTorch",
+      "AWS"
+    ],
+    "job_description": "We are hiring a DevOps Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-06"
+  },
+  {
+    "id": 66,
+    "job_title": "Frontend Developer",
+    "company_name": "HCL Technologies",
+    "location": "Noida",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "13-23 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Kubernetes",
+      "React",
+      "MongoDB",
+      "CSS"
+    ],
+    "job_description": "We are hiring a Frontend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-18"
+  },
+  {
+    "id": 67,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Mphasis",
+    "location": "Delhi",
+    "category": "AI Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "11-21 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "HTML",
+      "Git",
+      "JavaScript",
+      "MongoDB"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-07"
+  },
+  {
+    "id": 68,
+    "job_title": "AI Engineer",
+    "company_name": "L&T Infotech",
+    "location": "Gurugram",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "14-24 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "HTML",
+      "PyTorch",
+      "Python",
+      "Git"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-06"
+  },
+  {
+    "id": 69,
+    "job_title": "Backend Developer",
+    "company_name": "Paytm",
+    "location": "Bangalore",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "4-14 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "MongoDB",
+      "SQL",
+      "JavaScript",
+      "HTML"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-28"
+  },
+  {
+    "id": 70,
+    "job_title": "Python Developer",
+    "company_name": "Mphasis",
+    "location": "Gurugram",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "7-11 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Kubernetes",
+      "JavaScript",
+      "Git",
+      "Python"
+    ],
+    "job_description": "We are hiring a Python Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-12"
+  },
+  {
+    "id": 71,
+    "job_title": "DevOps Engineer",
+    "company_name": "Wipro",
+    "location": "Hyderabad",
+    "category": "DevOps Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "5-10 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Git",
+      "HTML",
+      "React",
+      "MongoDB"
+    ],
+    "job_description": "We are hiring a DevOps Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-04"
+  },
+  {
+    "id": 72,
+    "job_title": "Backend Developer",
+    "company_name": "Accenture",
+    "location": "Chennai",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "8-18 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "MongoDB",
+      "TensorFlow",
+      "SQL",
+      "Git"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-22"
+  },
+  {
+    "id": 73,
+    "job_title": "AI Engineer",
+    "company_name": "Capgemini",
+    "location": "Bangalore",
+    "category": "AI Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "11-16 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Kubernetes",
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-29"
+  },
+  {
+    "id": 74,
+    "job_title": "AI Engineer",
+    "company_name": "Infosys",
+    "location": "Noida",
+    "category": "AI Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "14-21 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "CSS",
+      "Git",
+      "PyTorch",
+      "JavaScript"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-03"
+  },
+  {
+    "id": 75,
+    "job_title": "Backend Developer",
+    "company_name": "TCS",
+    "location": "Chennai",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "12-14 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Python",
+      "MongoDB",
+      "JavaScript",
+      "AWS"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-09"
+  },
+  {
+    "id": 76,
+    "job_title": "Data Scientist",
+    "company_name": "Wipro",
+    "location": "Mumbai",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "14-24 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Node.js",
+      "Kubernetes",
+      "Git",
+      "Docker"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-04"
+  },
+  {
+    "id": 77,
+    "job_title": "Frontend Developer",
+    "company_name": "L&T Infotech",
+    "location": "Pune",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "15-22 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Docker",
+      "MongoDB",
+      "Git",
+      "TensorFlow"
+    ],
+    "job_description": "We are hiring a Frontend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-28"
+  },
+  {
+    "id": 78,
+    "job_title": "Data Scientist",
+    "company_name": "TCS",
+    "location": "Pune",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "5-15 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Git",
+      "TensorFlow",
+      "Node.js",
+      "Django"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-05"
+  },
+  {
+    "id": 79,
+    "job_title": "Data Scientist",
+    "company_name": "Capgemini",
+    "location": "Gurugram",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "8-10 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "HTML",
+      "JavaScript",
+      "Node.js",
+      "SQL"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-10"
+  },
+  {
+    "id": 80,
+    "job_title": "AI Engineer",
+    "company_name": "Accenture",
+    "location": "Chennai",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "13-17 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Docker",
+      "Git",
+      "SQL",
+      "CSS"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-27"
+  },
+  {
+    "id": 81,
+    "job_title": "Data Scientist",
+    "company_name": "Accenture",
+    "location": "Gurugram",
+    "category": "AI Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "7-9 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Kubernetes",
+      "SQL",
+      "Node.js",
+      "Django"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-30"
+  },
+  {
+    "id": 82,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Cognizant",
+    "location": "Pune",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "10-15 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Docker",
+      "AWS",
+      "HTML",
+      "CSS"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-24"
+  },
+  {
+    "id": 83,
+    "job_title": "Web Developer",
+    "company_name": "Persistent Systems",
+    "location": "Noida",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "7-9 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "SQL",
+      "Python",
+      "HTML",
+      "Git"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-06"
+  },
+  {
+    "id": 84,
+    "job_title": "Data Scientist",
+    "company_name": "Mindtree",
+    "location": "Chennai",
+    "category": "AI Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "3-12 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Docker",
+      "AWS",
+      "Git",
+      "Kubernetes"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-21"
+  },
+  {
+    "id": 85,
+    "job_title": "Frontend Developer",
+    "company_name": "Wipro",
+    "location": "Mumbai",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "10-16 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "PyTorch",
+      "Python",
+      "Git",
+      "HTML"
+    ],
+    "job_description": "We are hiring a Frontend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-21"
+  },
+  {
+    "id": 86,
+    "job_title": "Full Stack Developer",
+    "company_name": "Infosys",
+    "location": "Mumbai",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "13-20 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Docker",
+      "HTML",
+      "JavaScript",
+      "PyTorch"
+    ],
+    "job_description": "We are hiring a Full Stack Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-12"
+  },
+  {
+    "id": 87,
+    "job_title": "Data Scientist",
+    "company_name": "Flipkart",
+    "location": "Bangalore",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "14-19 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Kubernetes",
+      "Git",
+      "JavaScript",
+      "Docker"
+    ],
+    "job_description": "We are hiring a Data Scientist to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-27"
+  },
+  {
+    "id": 88,
+    "job_title": "Web Developer",
+    "company_name": "Persistent Systems",
+    "location": "Chennai",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "6-10 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "JavaScript",
+      "Django",
+      "PyTorch",
+      "Python"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-15"
+  },
+  {
+    "id": 89,
+    "job_title": "Backend Developer",
+    "company_name": "Infosys",
+    "location": "Gurugram",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "11-16 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "PyTorch",
+      "CSS",
+      "React",
+      "Kubernetes"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-20"
+  },
+  {
+    "id": 90,
+    "job_title": "Python Developer",
+    "company_name": "Mphasis",
+    "location": "Noida",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "15-23 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "SQL",
+      "CSS",
+      "JavaScript",
+      "Kubernetes",
+      "Python"
+    ],
+    "job_description": "We are hiring a Python Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-08"
+  },
+  {
+    "id": 91,
+    "job_title": "Python Developer",
+    "company_name": "Tech Mahindra",
+    "location": "Hyderabad",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "12-21 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "CSS",
+      "SQL",
+      "Django",
+      "HTML"
+    ],
+    "job_description": "We are hiring a Python Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-04"
+  },
+  {
+    "id": 92,
+    "job_title": "Web Developer",
+    "company_name": "Cognizant",
+    "location": "Hyderabad",
+    "category": "Developer",
+    "experience_level": "Senior",
+    "salary_lpa": "8-11 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Git",
+      "Docker",
+      "AWS",
+      "CSS"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-10"
+  },
+  {
+    "id": 93,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Paytm",
+    "location": "Hyderabad",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "6-13 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "SQL",
+      "Python",
+      "AWS",
+      "Django"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-19"
+  },
+  {
+    "id": 94,
+    "job_title": "AI Engineer",
+    "company_name": "Paytm",
+    "location": "Noida",
+    "category": "AI Engineer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "7-14 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "Kubernetes",
+      "HTML",
+      "TensorFlow",
+      "React"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-13"
+  },
+  {
+    "id": 95,
+    "job_title": "Web Developer",
+    "company_name": "Zoho",
+    "location": "Pune",
+    "category": "Developer",
+    "experience_level": "Mid-Level",
+    "salary_lpa": "4-8 LPA",
+    "job_type": "Internship",
+    "required_skills": [
+      "Docker",
+      "MongoDB",
+      "Kubernetes",
+      "CSS"
+    ],
+    "job_description": "We are hiring a Web Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-03"
+  },
+  {
+    "id": 96,
+    "job_title": "Backend Developer",
+    "company_name": "Capgemini",
+    "location": "Bangalore",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "6-11 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Git",
+      "React",
+      "Node.js",
+      "Kubernetes"
+    ],
+    "job_description": "We are hiring a Backend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-26"
+  },
+  {
+    "id": 97,
+    "job_title": "DevOps Engineer",
+    "company_name": "Persistent Systems",
+    "location": "Delhi",
+    "category": "DevOps Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "3-6 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Node.js"
+    ],
+    "job_description": "We are hiring a DevOps Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2025-12-27"
+  },
+  {
+    "id": 98,
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Capgemini",
+    "location": "Chennai",
+    "category": "AI Engineer",
+    "experience_level": "Fresher",
+    "salary_lpa": "10-13 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "Kubernetes",
+      "Python",
+      "PyTorch",
+      "Node.js"
+    ],
+    "job_description": "We are hiring a Machine Learning Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-03"
+  },
+  {
+    "id": 99,
+    "job_title": "AI Engineer",
+    "company_name": "Tech Mahindra",
+    "location": "Pune",
+    "category": "AI Engineer",
+    "experience_level": "Senior",
+    "salary_lpa": "14-23 LPA",
+    "job_type": "Full-Time",
+    "required_skills": [
+      "JavaScript",
+      "HTML",
+      "Docker",
+      "Kubernetes"
+    ],
+    "job_description": "We are hiring a AI Engineer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-01-22"
+  },
+  {
+    "id": 100,
+    "job_title": "Frontend Developer",
+    "company_name": "L&T Infotech",
+    "location": "Hyderabad",
+    "category": "Developer",
+    "experience_level": "Fresher",
+    "salary_lpa": "12-19 LPA",
+    "job_type": "Contract",
+    "required_skills": [
+      "CSS",
+      "Git",
+      "TensorFlow",
+      "SQL"
+    ],
+    "job_description": "We are hiring a Frontend Developer to work on scalable enterprise applications and modern technology stacks.",
+    "posted_date": "2026-02-11"
+  }
+]
