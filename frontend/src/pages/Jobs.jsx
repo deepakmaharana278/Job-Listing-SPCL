@@ -31,8 +31,8 @@ const Jobs = () => {
                 <div className="card h-100 shadow-sm border-0 p-3">
                   <div className="card-body d-flex flex-column">
                     <h5 className="fw-bold mb-1">{job.job_title}</h5>
-                    <p className="text-muted mb-1">{job.company_name}</p>
-                    <p className="small text-muted mb-2">{job.location}</p>
+                    <p className="text-muted mb-1"><i className="fas fa-city"></i> {job.company_name}</p>
+                    <p className="small text-muted mb-2"><i className="fas fa-location-dot"></i> {job.location}</p>
                     <div className="mb-2 d-flex flex-wrap gap-2">
                       <span className="badge bg-light text-dark border">{job.job_type}</span>
                       <span className="badge bg-light text-dark border">{job.experience_level}</span>
