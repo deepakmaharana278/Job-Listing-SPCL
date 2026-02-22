@@ -30,4 +30,11 @@ def login(req):
     if not check_password(password, user.password):
         return Response({'error': 'Invalid password'}, status=400)
 
-    return Response({'message': 'Login successful'},status=200)
+    return Response({
+        'message': 'Login successful',
+        "user": {
+            "id": user.id,
+            "name": user.name,
+            "email": user.email,
+            "career_level": user.career_level
+    }},status=200)
