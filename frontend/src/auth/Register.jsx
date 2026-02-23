@@ -36,6 +36,10 @@ const Register = () => {
         career_level: "",
         confirm_password: "",
       });
+      setTimeout(() => {
+        navigate('/login')
+      }, 3000);
+
     } catch (error) {
       console.log(error);
     }

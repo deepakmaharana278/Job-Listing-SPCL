@@ -31,6 +31,9 @@ const Login = () => {
         email: "",
         password: "",
       });
+      setTimeout(() => {
+        navigate('/')
+      }, 3000);
     } catch (error) {
       console.log(error);
     }
