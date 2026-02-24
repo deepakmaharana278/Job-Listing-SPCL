@@ -1,8 +1,9 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Layout from "../components/Layout";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import jobsData from "../data/jobs.json";
 import { toast } from "react-toastify";
+import axios from "axios";
 
 const JobDetails = () => {
   const { id } = useParams();
@@ -11,7 +12,8 @@ const JobDetails = () => {
   const [resume, setResume] = useState(null);
   const [phone, setPhone] = useState("");
   const [coverLetter, setCoverLetter] = useState("");
-  const navigate = useNavigate()
+  const navigate = useNavigate();
+  const [alreadyApplied, setAlreadyApplied] = useState(false);
 
   const user = JSON.parse(localStorage.getItem("user"));
 
@@ -29,19 +31,63 @@ const JobDetails = () => {
     formData.append("phone", phone);
     formData.append("cover_letter", coverLetter);
     formData.append("resume", resume);
+
+    try {
+      const res = await axios.post(`${import.meta.env.VITE_API_URL}/api/apply/`, formData, {
+        headers: {
+          "Content-Type": "multipart/form-data",
+        },
+      });
+
+      toast.success(res.data.message)
+      setShowForm(false)
+
+    } catch (error) {
+      console.log(error);
+      // console.log("Backend Error:", error.response?.data);
+      toast.error(error.res?.data?.message);
+    }
   };
+
+  useEffect(() => {
+  const checkApplied = async () => {
+    if (!user) return;
+
+    try {
+      const res = await axios.get(
+        `${import.meta.env.VITE_API_URL}/api/check-application/`,
+        {
+          params: {
+            user_id: user.id,
+            job_id: job.id
+          }
+        }
+      );
+
+      setAlreadyApplied(res.data.applied);
+
+    } catch (error) {
+      console.log(error);
+    }
+  };
+
+  if (job) {
+    checkApplied();
+  }
+
+}, [job]);
 
   const handleApplyNow = () => {
     if (!user) {
       toast.error("Please login first");
       setTimeout(() => {
-        navigate('/login')
+        navigate("/login");
       }, 3000);
       return;
     } else {
-      setShowForm(true)
+      setShowForm(true);
     }
-  }
+  };
 
   if (!job) {
     return (
@@ -86,7 +132,9 @@ const JobDetails = () => {
             <h6 className="fw-bold">Job Description</h6>
             <p>{job.job_description}</p>
 
-            <button onClick={handleApplyNow} className="btn btn-primary">Apply Now</button>
+            <button onClick={handleApplyNow} className="btn btn-primary" disabled={alreadyApplied}>
+              {alreadyApplied ? "Already Applied" : "Apply Now"}
+            </button>
           </div>
 
           {showForm && (
