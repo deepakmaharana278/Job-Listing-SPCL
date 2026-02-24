@@ -79,3 +79,27 @@ def check_application(request):
     ).exists()
 
     return Response({"applied": exists})
+
+
+@api_view(['GET'])
+def user_applications(request):
+
+    user_id = request.GET.get("user_id")
+
+    if not user_id:
+        return Response({"error": "User required"}, status=400)
+
+    applications = JobApplication.objects.filter(
+        user_id=user_id
+    ).order_by("-applied_at")
+
+    data = []
+
+    for app in applications:
+        data.append({
+            "job_id": app.job_id,
+            "status": app.status,
+            "applied_at": app.applied_at,
+        })
+
+    return Response(data)

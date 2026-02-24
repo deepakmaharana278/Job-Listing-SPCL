@@ -6,4 +6,5 @@ urlpatterns = [
     path('login/', login),
     path('apply/', apply_job),
     path('check-application/', check_application),
+    path('my-applications/', user_applications),
 ]
